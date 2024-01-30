@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arjunbchennithala, 3rd year Computer Science Student
-- 👀 I’m interested in Cyber security, Embedded systems and Web development.
+- 👋 Hi, I’m @arjunbchennithala
+- 👀 I’m interested in Cyber security, Electronics, Embedded systems, Audio plugins development.
 - 📫 Email : arjunbchennithala@gmail.com
 
 <!---
